@@ -1,0 +1,1 @@
+.el-cascader.is-readonly{--el-readonly-cursor: text;--el-disabled-bg-color: initial;--el-disabled-text-color: var(--el-input-text-color)}.el-cascader.is-readonly .el-input.is-disabled .el-input__inner,.el-cascader.is-readonly .el-input.is-disabled{cursor:var(--el-readonly-cursor)}

@@ -1,0 +1,1 @@
+.el-switch.is-readonly{--el-readonly-cursor: auto}.el-switch.is-readonly.is-readonly{opacity:.9}.el-switch.is-readonly.is-readonly .el-switch__core,.el-switch.is-readonly.is-readonly .el-switch__label{cursor:var(--el-readonly-cursor)}
