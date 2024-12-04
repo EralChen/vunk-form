@@ -1,0 +1,1 @@
+import{fp as p,fq as i}from"./chunk-DfTZZpt0.js";import{m as a}from"./chunk-BWfKP3VS.js";import"./chunk-wXzftp25.js";import"./chunk-CjzDLHuf.js";import"./chunk-DkhztfFA.js";import"./chunk-fEI7Cr-O.js";import"./chunk-Ch0SDxT-.js";import"./chunk-DBIPdCjN.js";async function I(o,t,r){const m=p(o);return(await a(m,i.from(t),{...r})).data.objectIds}export{I as executeForTopIds};
