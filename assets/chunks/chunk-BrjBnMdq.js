@@ -1,0 +1,1 @@
+import{eW as a,at as l}from"./chunk-BRTsdaL7.js";function m(e,n=a(e)){return n.mode!=="on-the-ground"&&!(e.geometry==null||!e.geometry.hasZ)}function s(e,n){let t=null;const r=e.events.on("grab-changed",o=>{t!=null&&(t.remove(),t=null),o.action==="start"&&(t=e.disableDisplay())});return l(()=>{t?.remove(),r.remove()})}export{m as n,s as t};
