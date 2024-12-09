@@ -1,0 +1,14 @@
+[
+  {
+    "value": "https://www.google.com",
+    "label": "Google"
+  },
+  {
+    "value": "https://www.bing.com",
+    "label": "Bing"
+  },
+  {
+    "value": "https://www.yahoo.com",
+    "label": "Yahoo"
+  }
+]

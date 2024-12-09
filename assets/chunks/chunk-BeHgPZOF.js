@@ -1,1 +1,0 @@
-import{p as o,S as m}from"./chunk-CdeRgiLc.js";import{d as p,C as r,D as n}from"./chunk-Dr2pd04r.js";const e=p({name:"VkfTemplateInstancesProvider",setup(a,{slots:s}){const t=r({});return n(o,t),n(m,t),()=>s.default?.()}});e.install=a=>{a.component(e.name||"VkfTemplateInstancesProvider",e)};export{e as _};
