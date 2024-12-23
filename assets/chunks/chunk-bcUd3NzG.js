@@ -1,0 +1,1 @@
+import{b as o}from"./chunk-DVj1gyv_.js";import{d as s}from"./chunk-Dw53j9Qa.js";const m={data:{type:Object,default:()=>({})}},d={setData:e=>e},t=s({name:"VkfRendererData",props:m,emits:d,setup(e,{emit:a,slots:n}){const r=o(e,{emit:a});return()=>n.default?.(r)}});t.install=e=>{e.component(t.name||"VkfRendererData",t)};export{t as _};
