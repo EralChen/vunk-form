@@ -1,1 +1,0 @@
-import{d as l,o as t,n,q as e}from"./chunk-C7ZeX_9O.js";import"./chunk-fEI7Cr-O.js";const p=l({__name:"basic",setup(o){return(s,a)=>(t(),n("ul",null,a[0]||(a[0]=[e("li",null,[e("span",null," createDefaultSlots: "),e("span",null," 将一个对象 o => { default: [o] } 或是将数组 a => { default: a } ")],-1)])))}});export{p as default};
