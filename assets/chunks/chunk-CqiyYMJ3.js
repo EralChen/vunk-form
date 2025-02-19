@@ -1,0 +1,1 @@
+import{u as s}from"./chunk-D61MhEB-.js";import{d as m,V as a,W as p}from"./chunk-Bm-AhfTS.js";const c={type:{type:String,required:!0,default:""}},n=m({name:"VkfFormItemRendererTemplate",props:c,setup(e){const t=s();if(!t)throw new Error;const o=p(),r=t[e.type];return o&&t&&(t[e.type]=o),a(()=>{t[e.type]=r}),()=>null}});n.install=e=>{e.component(n.name,n)};export{n as _};
