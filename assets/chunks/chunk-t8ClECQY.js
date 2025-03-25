@@ -1,0 +1,5 @@
+import{A as o,d as t}from"./chunk-DiXgaMMW.js";import"./chunk-DndI2lsb.js";import"./chunk-DejJyM_L.js";import"./chunk-BYadWzQA.js";import"./chunk-CoNX68_w.js";import"./chunk-fEI7Cr-O.js";import"./chunk-Ch0SDxT-.js";import"./chunk-BbMSQS30.js";import"./chunk-BtfPSaSu.js";import"./chunk-Br3OftPk.js";import"./chunk-B2rGIUfB.js";import"./chunk-DQWBvDpo.js";import"./chunk-B-ELQbAb.js";import"./chunk-C2TgeFpY.js";import"./chunk-ChNkMXb1.js";import"./chunk-DrdDsAHL.js";import"./chunk-rswJpdgz.js";import"./chunk-BDKz5lNZ.js";import"./chunk-vh22aetv.js";import"./chunk-B6R7MA07.js";import"./chunk-qQ3be36P.js";import"./chunk-CKYJN-CM.js";import"./chunk-ClhXnbvy.js";import"./chunk-y0qQVl9I.js";import"./chunk-DjvtKv0m.js";import"./chunk-KMjzdYyI.js";/*!
+ * All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+ * See https://github.com/Esri/calcite-design-system/blob/main/LICENSE.md for details.
+ * v2.8.0
+ */const w=o,y=t;export{w as CalciteActionGroup,y as defineCustomElement};
