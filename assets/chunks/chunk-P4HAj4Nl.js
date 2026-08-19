@@ -1,0 +1,1 @@
+import{u as o}from"./chunk-CMEAR9Vf.js";import{m as a,N as m,w as u}from"./chunk-Q3kq90Do.js";const d=a({__name:"view",setup(p,{expose:n}){const s=o(),t=u(()=>s.items.map(e=>e.attrs));async function r(){return Promise.all(t.value.map(e=>e.validate?.()))}return n({forms:t,validate:r}),(e,i)=>m(e.$slots,"default",{forms:t.value,validate:r})}});export{d as _};

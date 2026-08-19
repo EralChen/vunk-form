@@ -1,0 +1,1 @@
+import{p as o}from"./chunk-CbmrdgQF.js";import{c as t,d as e}from"./chunk-Q3kq90Do.js";/* empty css              *//* empty css              */const d={...o,...e,options:{type:Array,default:()=>[]},type:{type:String,default:"checkbox"},defaultModelValue:{type:Array,default:void 0},modelValue:{type:Array,default:void 0}},i={...t};export{i as e,d as p};

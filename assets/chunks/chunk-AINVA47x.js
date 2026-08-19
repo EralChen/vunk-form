@@ -1,0 +1,1 @@
+import{bC as e,br as O}from"./chunk-DKcLrXYH.js";const c=e().vec3f(O.POSITION),f=e().vec3f(O.POSITION).vec2f(O.UV0),v=e().vec3f(O.POSITION).vec4u8(O.COLOR),r=e().vec3f(O.POSITION).vec2f(O.UV0).vec4u8(O.OBJECTANDLAYERIDCOLOR);export{r as I,f,v as r,c as t};

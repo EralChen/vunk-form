@@ -1,0 +1,1 @@
+import{P as a,w as l,K as r}from"./chunk-Q3kq90Do.js";const p=(t,i)=>{const e=r([]),s=o=>{o?fetch(o).then(n=>n.json()).then(n=>{e.value=n}):e.value=[]};return t.optionsUrl&&s(t.optionsUrl),a(()=>t.optionsUrl,o=>{i("update:modelValue",void 0),o&&s(o)}),l(()=>e.value.length?e.value:t.options)};export{p as u};

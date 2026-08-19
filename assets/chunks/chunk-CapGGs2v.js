@@ -1,1 +1,0 @@
-import{V as s}from"./chunk-4YGs718W.js";import{a as r,v as n,o as p,k as m,u as t,x as l}from"./chunk-Bw1FhX_e.js";const i=r({__name:"select-tables",setup(u){const a=n({});return(f,e)=>(p(),m(t(s),{data:a.value,"form-items":[{templateType:"VkfInput",label:"名称",prop:"username"}],onSetData:e[0]||(e[0]=o=>t(l)(a.value,o))},null,8,["data"]))}});export{i as _};

@@ -1,1 +1,0 @@
-import{c as s,p as o,i,d as n,g as u}from"./chunk-Bw1FhX_e.js";const l=(t,d)=>{const a=s(()=>t.data),r={data:a,emitSetData:e=>{d.emit("setData",{intoUndefined:n,...e})},getDataValue:e=>u(a.value,e,n,!0)};return o("vkRendererData",r),r},p=()=>i("vkRendererData",{});export{l as i,p as u};

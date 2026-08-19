@@ -1,1 +1,0 @@
-import{a as s,r as i}from"./chunk-DsKu-fTI.js";s();async function n(a,{keepScrollPosition:e=!1,overwriteLastHistoryEntry:r=!1}={}){await i({scrollTarget:{preserveScroll:e},urlOriginal:a,overwriteLastHistoryEntry:r,isBackwardNavigation:!1})}export{n};

@@ -1,0 +1,1 @@
+.vkf-radio-option-card.is-checked{border-color:var(--el-color-primary)}.vkf-radio-option-card{font-size:var(--el-font-size-base);cursor:pointer}.vkf-radio-option-card:not(:last-child){margin-inline-end:30px}.vkf-radio-option-card>.el-card__body{display:flex;justify-content:space-between;align-items:center;width:max-content}

@@ -1,0 +1,1 @@
+import{e as o,f as r}from"./chunk-Q3kq90Do.js";import{p}from"./chunk-CbmrdgQF.js";/* empty css              *//* empty css              */const e={...p,...r,colorFormat:null,colorPickerRef:{type:Function,default:void 0}},m={...o};export{m as e,e as p};
